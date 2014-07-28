@@ -1,0 +1,6 @@
+generate temp 6300 s
+merge 980 s
+generate results 1080 s
+total 9360 s
+
+bin generate results 910 s
